@@ -1,4 +1,4 @@
-package com.leeheefull
+package com.leeheefull.kotlin
 
 fun main() {
     println("Hello world")
